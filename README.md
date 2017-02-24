@@ -1,5 +1,5 @@
 # lb-js
-使用loopback做服务时可以使用；loopback js网络请求，使用axios做网络请求。
+使用loopback时可以使用；loopback js网络请求，使用axios做网络请求。
 - 将src中的js文件导入
 - 使用时如下所示
 
