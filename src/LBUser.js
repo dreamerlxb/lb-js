@@ -1,17 +1,6 @@
 import LBModelRepository, { LBModel } from './LBModel';
 import { SLRESTContractItem } from './SLRESTContract';
 
-export class LBUser extends LBModel {
-    constructor(repository, creationParameters) {
-        super(repository, creationParameters);
-
-        this.email = ''; // string
-        this.password = ''; //  string
-        this.realm = ''; // string
-        this.emailVerified = false;
-        this.status = ''; // string
-    }
-}
 
 /**
  * 与用户相关的操作

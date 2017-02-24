@@ -35,7 +35,6 @@
     "karma-firefox-launcher": "1.0.0",
     "karma-htmlfile-reporter": "~0.3",
     "karma-jasmine": "^1.0.2",
-    "karma-phantomjs-launcher": "^1.0.2",
     "karma-webpack": "^1.8.0",
     "strip-loader": "^0.1.2",
     "webpack": "^1.13.2",

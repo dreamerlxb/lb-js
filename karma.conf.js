@@ -14,7 +14,7 @@ module.exports = function(config) {
         // - Safari (only Mac; has to be installed with `npm install karma-safari-launcher`)
         // - PhantomJS
         // - IE (only Windows; has to be installed with `npm install karma-ie-launcher`)
-        browsers: ['Chrome', 'PhantomJS', 'Firefox'],
+        browsers: ['Chrome', 'Firefox'], // 'PhantomJS',
         files: [
             { pattern: 'tests.webpack.js', watched: false }
         ],
